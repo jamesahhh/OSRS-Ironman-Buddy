@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">OSRS Ironman Buddy</string>
+    <string name="home_welcome_message">Select the Run you wish to go on!</string>
+    <string name="daily_run">Daily Ironman Run</string>
+    <string name="herb_run">Daily Herb Patch Run</string>
+    <string name="daily_run_button">Daily Run Button</string>
+    <string name="sand">Sand</string>
+    <string name="battlestaff">Battlestaves</string>
+    <string name="essence">Pure Essence</string>
+    <string name="default_description">Default Description Text</string>
+    <string name="npc_image_descriptor">Image of Collection NPC</string>
+    <string name="bert_text">Go to Bert in Yanille and collect your free Buckets of Sand</string>
+    <string name="zaff_text">Go to Zaff in Varrock and collect your free Battlestaves</string>
+    <string name="cromperty_text">Go to Wizard Cromperty and collect your free Rune Essence</string>
+    <string name="collection_run">Collection Run</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="collected_image">Image of Collected Resource from NPC</string>
+    <string name="default_int_value">0</string>
+    <string name="agility_collectible_tracker">Agility Collectible Tracker</string>
+    <string name="pyramid_top_description">Track the Number of Pyramid Tops you\'ve collected at the Agility Pyramid
+    </string>
+    <string name="marks_of_grace_description">Track the Number of Marks of Grace you\'ve received at the Rooftop Agility Course</string>
+    <string name="decrement_description">decrements the count</string>
+    <string name="image_description">current collectible</string>
+    <string name="collectible_description_a">Current Collectible Instructions</string>
+    <string name="app_description">App Description</string>
+
+    <string-array name="daily_locations">
+        <item>Varrock</item>
+        <item>Ardougne</item>
+        <item>Yanille</item>
+        <item>Miscellania</item>
+        <item>Farming Guild</item>
+    </string-array>
+
+    <string-array name="gain_favor">
+        <item>------</item>
+        <item>Rake Weeds</item>
+        <item>Mine Coal</item>
+        <item>Chop Maple Trees</item>
+        <item>Fish at the Docks</item>
+        <item>Chop Teak Trees</item>
+        <item>Chop Mahogany Trees</item>
+        <item>Compost patches</item>
+        <item>Supercompost patches</item>
+        <item>Water patches</item>
+    </string-array>
+
+    <string-array name="subject_distribution">
+        <item>-------</item>
+        <item>Hardwood Mahogany</item>
+        <item>Hardwood Teak</item>
+        <item>Hardwood Both</item>
+        <item>Wood</item>
+        <item>Farm</item>
+        <item>Fishing</item>
+        <item>Herbs</item>
+        <item>Flax</item>
+        <item>Mining</item>
+    </string-array>
+</resources>
